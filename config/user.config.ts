@@ -32,7 +32,7 @@ const userConfig: UserConfigType = {
     {
       url: "https://discord.com/users/964887498436276305",
       iconSrc: discordIcon,
-      title: "Discor",
+      title: "Discord",
       description: "一番使ってる",
     },
     {
@@ -50,7 +50,7 @@ const userConfig: UserConfigType = {
     {
       url: "https://www.linkedin.com/in/aic6301/",
       iconSrc: misskeyIcon,
-      title: "Misskey",
+      title: "Misskey / 🚀AcitivityPub",
       description: "地味に使う",
     }
   ],
