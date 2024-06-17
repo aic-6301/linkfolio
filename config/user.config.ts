@@ -48,7 +48,7 @@ const userConfig: UserConfigType = {
       description: "たまに見る",
     },
     {
-      url: "https://www.linkedin.com/in/aic6301/",
+      url: "#",
       iconSrc: misskeyIcon,
       title: "Misskey / 🚀AcitivityPub",
       description: "地味に使う",
