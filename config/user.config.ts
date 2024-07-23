@@ -36,7 +36,7 @@ const userConfig: UserConfigType = {
       description: "一番使ってる",
     },
     {
-      url: "https://youtube.com/@aic_6301",
+      url: "https://youtube.com/@あいしぃー",
       iconSrc: youtubeIcon,
       title: "YouTube",
       description: "配信アーカイブ投げるだけ",
