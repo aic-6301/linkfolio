@@ -35,5 +35,5 @@ export {
   youtubeIcon,
   xIcon,
   rocket,
-  VRChatIcon
+  VRChatIcon, 
 };
