@@ -6,6 +6,7 @@ import {
   misskeyIcon,
   xIcon,
   youtubeIcon,
+  VRChatIcon,
 } from "@/assets";
 
 const userConfig: UserConfigType = {
@@ -48,10 +49,16 @@ const userConfig: UserConfigType = {
       description: "たまに見る",
     },
     {
-      url: "#",
+      url: "https://幼女.art/@aicy",
       iconSrc: misskeyIcon,
       title: "Misskey / 🚀AcitivityPub",
       description: "地味に使う",
+    },
+    {
+      url: "https://vrchat.com/home/user/usr_66be067b-6613-4ee4-aa6f-b38351ba6f4b",
+      iconSrc: VRChatIcon,
+      title: "VRChat",
+      description: "VRChat",
     }
   ],
 };

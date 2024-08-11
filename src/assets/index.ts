@@ -15,6 +15,7 @@ import whatsappIcon from "./img/whatsapp.webp";
 import youtubeIcon from "./img/youtube.webp";
 import xIcon from "./img/x.webp";
 import rocket from "./img/rocket.webp";
+import VRChatIcon from "./img/vrchat.webp";
 
 export {
   linkfolioIcon,
@@ -34,4 +35,5 @@ export {
   youtubeIcon,
   xIcon,
   rocket,
+  VRChatIcon
 };
